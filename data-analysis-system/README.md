@@ -9,3 +9,7 @@
 - #### utilizar o comando `chmod +x run.sh`;
 - #### executar, ainda no terminal, com o comando `./run.sh`
 
+### Diagrama de Classe:
+
+![](DataAnalysisSystem.png)
+
